@@ -58,7 +58,7 @@ const navigate = useNavigate()
                 <label className="block text-gray-700 text-sm font-bold mb-2">
                   Student Id
                 </label>
-                <input {...register("userId")}
+                <input type="email" {...register("userId")}
                   className="text-gray-700 border border-gray-300 rounded py-2 px-4 block w-full focus:outline-2 focus:outline-blue-700"
                 
                   required
