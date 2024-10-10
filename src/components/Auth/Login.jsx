@@ -56,7 +56,7 @@ const navigate = useNavigate()
               <form onSubmit={handleSubmit(onSubmit)}>
               <div className="mt-4">
                 <label className="block text-gray-700 text-sm font-bold mb-2">
-                  Student Id
+                  Email
                 </label>
                 <input type="email" {...register("userId")}
                   className="text-gray-700 border border-gray-300 rounded py-2 px-4 block w-full focus:outline-2 focus:outline-blue-700"
