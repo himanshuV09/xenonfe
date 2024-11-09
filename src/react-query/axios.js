@@ -1,6 +1,6 @@
 import axios from "axios";
 import { getAccessToken } from "../utils/auth/getUserInfo";
-const BASE_URL = "http://localhost:8080/api/v1/"
+const BASE_URL = "https://xenonbe.onrender.com/api/v1/"
 
 
 export const unAuthAxios = axios.create({
