@@ -15,14 +15,10 @@ function App() {
 
     <Router>
       <Routes>
-
         <Route path='/login' element={
           <ProtectedLogin>
             <Login />
           </ProtectedLogin>
-
-
-
         } />
         <Route path='/register' element={
           <ProtectedLogin>
@@ -44,14 +40,9 @@ function App() {
 
         {/* <Route path="*" element={<NotFound />} /> */}
 
-
-
-
       </Routes>
 
     </Router>
-
-
   )
 }
 

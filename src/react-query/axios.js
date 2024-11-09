@@ -1,6 +1,6 @@
 import axios from "axios";
 import { getAccessToken } from "../utils/auth/getUserInfo";
-const BASE_URL = import.meta.env.VITE_BASE_URL
+const BASE_URL = "http://localhost:8080/api/v1/"
 
 
 export const unAuthAxios = axios.create({
