@@ -3,7 +3,7 @@ export const properties = [
     "id": 1,
     "title": "Beachfront Villa in Miami",
     "location": "Miami",
-    "price": 500,
+    "price": 5400,
     "amenities": ["pool", "beachfront", "wifi", "air conditioning"],
     "category": "luxury",
     "image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNzM3fDB8MHwxfGFsbHwyfHx8fHx8fHwxNjE2NjMyOTcy&ixlib=rb-1.2.1&q=80&w=400"
@@ -12,25 +12,25 @@ export const properties = [
     "id": 2,
     "title": "Mountain Cabin in Colorado",
     "location": "Colorado",
-    "price": 300,
+    "price": 2300,
     "amenities": ["mountain view", "fireplace", "hiking trails"],
     "category": "rustic",
-    "image": "https://images.unsplash.com/photo-1590595900357-2a45f9491a9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNzM3fDB8MHwxfGFsbHwzfHx8fHx8fHwxNjE2NjMyOTcy&ixlib=rb-1.2.1&q=80&w=400"
+    "image": "https://plus.unsplash.com/premium_photo-1682377521697-bc598b52b08a?q=80&w=1830&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "id": 3,
     "title": "Urban Apartment in New York",
     "location": "New York",
-    "price": 700,
+    "price": 7000,
     "amenities": ["wifi", "city view", "gym", "rooftop access"],
     "category": "urban",
-    "image": "https://images.unsplash.com/photo-1584824471997-4a1c0c16de05"
+    "image": "https://plus.unsplash.com/premium_photo-1682377521697-bc598b52b08a?q=80&w=1830&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "id": 4,
     "title": "Countryside Cottage in Yorkshire",
     "location": "Yorkshire",
-    "price": 250,
+    "price": 4250,
     "amenities": ["garden", "fireplace", "countryside view"],
     "category": "countryside",
     "image": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNzM3fDB8MHwxfGFsbHwxfHx8fHx8fHwxNjE2NjMyOTcy&ixlib=rb-1.2.1&q=80&w=400"
@@ -39,16 +39,16 @@ export const properties = [
     "id": 5,
     "title": "Luxury Penthouse in Los Angeles",
     "location": "Los Angeles",
-    "price": 900,
+    "price": 5900,
     "amenities": ["pool", "gym", "city view", "jacuzzi"],
     "category": "luxury",
-    "image": "https://images.unsplash.com/photo-1618506469029-0d8f67ab4e83"
+    "image": "https://images.unsplash.com/photo-1544984243-ec57ea16fe25?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "id": 6,
     "title": "Charming Bungalow in Bali",
     "location": "Bali",
-    "price": 450,
+    "price": 4350,
     "amenities": ["beachfront", "outdoor shower", "wifi", "garden"],
     "category": "tropical",
     "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0"
@@ -57,43 +57,43 @@ export const properties = [
     "id": 7,
     "title": "Ski Chalet in Aspen",
     "location": "Aspen",
-    "price": 600,
+    "price": 8600,
     "amenities": ["ski-in/ski-out", "fireplace", "hot tub", "mountain view"],
     "category": "winter",
-    "image": "https://images.unsplash.com/photo-1559636796-bb20982c0ab3"
+    "image": "https://plus.unsplash.com/premium_photo-1682377521697-bc598b52b08a?q=80&w=1830&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "id": 8,
     "title": "Modern Loft in San Francisco",
     "location": "San Francisco",
-    "price": 750,
+    "price": 7950,
     "amenities": ["wifi", "city view", "gym", "pet-friendly"],
     "category": "urban",
-    "image": "https://images.unsplash.com/photo-1593715281359-5a24898dbf7c"
+    "image": "https://images.unsplash.com/photo-1513584684374-8bab748fbf90?q=80&w=2065&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "id": 9,
     "title": "Lakeside Cabin in Minnesota",
     "location": "Minnesota",
-    "price": 350,
+    "price": 3550,
     "amenities": ["lake view", "fire pit", "kayaking", "fishing"],
     "category": "lakefront",
-    "image": "https://images.unsplash.com/photo-1562180462-c58d6380e042"
+    "image": "https://plus.unsplash.com/premium_photo-1682377521697-bc598b52b08a?q=80&w=1830&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "id": 10,
     "title": "Safari Lodge in Kenya",
     "location": "Kenya",
-    "price": 650,
+    "price": 6540,
     "amenities": ["wildlife view", "pool", "all-inclusive", "guided tours"],
     "category": "adventure",
-    "image": "https://images.unsplash.com/photo-1526120309823-60a9da1b83b4"
+    "image": "https://plus.unsplash.com/premium_photo-1682377521697-bc598b52b08a?q=80&w=1830&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "id": 11,
     "title": "Seaside Cottage in Santorini",
     "location": "Santorini",
-    "price": 550,
+    "price": 1550,
     "amenities": ["ocean view", "outdoor dining", "wifi", "private terrace"],
     "category": "seaside",
     "image": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e"
@@ -102,82 +102,11 @@ export const properties = [
     "id": 12,
     "title": "Eco-Friendly Cabin in New Zealand",
     "location": "New Zealand",
-    "price": 400,
+    "price": 1400,
     "amenities": ["solar-powered", "off-grid", "mountain view", "hiking"],
     "category": "eco-friendly",
-    "image": "https://images.unsplash.com/photo-1555789055-d030e6e6f0c6"
-  },
-  {
-    "id": 13,
-    "title": "Desert Villa in Dubai",
-    "location": "Dubai",
-    "price": 850,
-    "amenities": ["private pool", "desert view", "luxury interior", "wifi"],
-    "category": "luxury",
-    "image": "https://images.unsplash.com/photo-1524615830256-f8c8f2c9b538"
-  },
-  {
-    "id": 14,
-    "title": "Historic Home in Tuscany",
-    "location": "Tuscany",
-    "price": 480,
-    "amenities": ["vineyard view", "rustic interior", "wifi", "wine tasting"],
-    "category": "historic",
-    "image": "https://images.unsplash.com/photo-1516542076529-8a6c2c03f3c5"
-  },
-  {
-    "id": 15,
-    "title": "Treehouse in Costa Rica",
-    "location": "Costa Rica",
-    "price": 320,
-    "amenities": ["jungle view", "eco-friendly", "outdoor shower", "hiking"],
-    "category": "tropical",
-    "image": "https://images.unsplash.com/photo-1541704736371-f8c57a43140c"
-  },
-  {
-    "id": 16,
-    "title": "Oceanfront Condo in Hawaii",
-    "location": "Hawaii",
-    "price": 680,
-    "amenities": ["beach access", "wifi", "balcony"],
-      "category": "luxury",
-    "image": "https://images.unsplash.com/photo-1555391630-9a0450c264f6"
-  },
-  {
-    "id": 17,
-    "title": "Castle Retreat in Scotland",
-    "location": "Scotland",
-    "price": 1000,
-    "amenities": ["historic castle", "private grounds", "luxury", "wifi"],
-    "category": "luxury",
-    "image": "https://images.unsplash.com/photo-1555391630-9a0450c264f6"
-  },
-  {
-    "id": 18,
-    "title": "Riverfront Cottage in Canada",
-    "location": "Canada",
-    "price": 350,
-    "amenities": ["river view", "fire pit", "canoeing", "fishing"],
-    "category": "riverfront",
-    "image": "https://images.unsplash.com/photo-1563247127-4630306de7d3"
-  },
-  {
-    "id": 19,
-    "title": "Luxury Yacht in Monaco",
-    "location": "Monaco",
-    "price": 1500,
-    "amenities": ["ocean view", "private chef", "jacuzzi", "wifi"],
-    "category": "luxury",
-    "image": "https://images.unsplash.com/photo-1511381420282-03b8a0aa785e"
-  },
-  {
-    "id": 20,
-    "title": "Mountain Villa in Switzerland",
-    "location": "Switzerland",
-    "price": 900,
-    "amenities": ["ski access", "fireplace", "mountain view", "sauna"],
-    "category": "winter",
-    "image": "https://images.unsplash.com/photo-1516582431089-7b42a7467b5d"
+    "image": "https://plus.unsplash.com/premium_photo-1682377521697-bc598b52b08a?q=80&w=1830&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   }
+ 
 ]
 

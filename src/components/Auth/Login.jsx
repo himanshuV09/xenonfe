@@ -38,7 +38,7 @@ function Login() {
     <div
       className="flex items-center justify-center h-screen w-full bg-cover bg-center"
       style={{
-        backgroundImage: `url(https://www.tailwindtap.com//assets/components/form/userlogin/login_tailwindtap.jpg)`,
+        backgroundImage: `url(https://img.freepik.com/free-vector/abstract-technology-particles-low-poly-background_1017-23831.jpg?t=st=1731160202~exp=1731163802~hmac=de4e6561b23c066d07916113e5d42b0a299769c9ad489f4e5552c0bd67d75ca0&w=1060)`,
       }}
     >
       <div className="flex flex-col bg-white bg-opacity-80 backdrop-blur-md rounded-3xl shadow-lg p-8 w-full max-w-md md:max-w-lg">
